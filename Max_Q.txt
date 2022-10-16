@@ -1,0 +1,13 @@
+Max-Q is the point in the launch sequence where the rocket experiences the maximum dynamic pressure.
+
+Buckle up, this is where it gets technical.
+
+The rocket, as it is going up into space, is experiencing three forces: gravity (down), thrust (up), and atmospheric drag (down).
+
+The rocket starts to accelerate and the drag force starts to grow dramatically, since the force is related to velocity squared: whenever the speed doubles, the force quadruples. 
+But, at the same time, the air density is decreasing, so the force is weakening because of this. At some altitude, the decreasing air density wins 
+out over the increasing velocity, and the drag force starts to decrease.
+
+It is this point – where the increasing velocity is balanced by the decreasing density of the atmosphere and the drag force starts to decrease that is called Max-Q.
+
+ 
